@@ -20,6 +20,8 @@
 /web/sites/*/translations
 /web/sites/*/tmp
 /web/sites/*/cache
+/web/sites/*/files
+/web/sites/*/files
 
 # Ignore drupal core (if not versioning drupal sources)
 /web/vendor
